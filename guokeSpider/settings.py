@@ -72,8 +72,8 @@ ITEM_PIPELINES = {
 
 MYSQL_HOST = '192.168.64.134'
 MYSQL_DBNAME = 'scraping'
-MYSQL_USER = 'adminZ'
-MYSQL_PASSWD = 'password'
+MYSQL_USER = '*****'
+MYSQL_PASSWD = '******'
 MYSQL_CHARSET = 'utf8mb4'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
